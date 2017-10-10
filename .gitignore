@@ -1,2 +1,5 @@
+/Debug/
+/Release/
 *.sdf
+*.opendb
 /.vs/
