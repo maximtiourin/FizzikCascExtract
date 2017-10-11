@@ -1,0 +1,1 @@
+"bin/FizzikCascExtract.exe" "D:\Program Files (x86)\Heroes of the Storm\HeroesData" test.txt test.txt
